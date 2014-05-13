@@ -10,6 +10,7 @@ public class try2 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+	//damitha shyamantha Jayasingha
+		//sadasdasda
 	}
 }
